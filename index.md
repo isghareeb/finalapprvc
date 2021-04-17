@@ -25,7 +25,7 @@ YCF
 [Link](url) and ![Image](6.jpeg)
 [Link](url) and ![Image](7.jpeg)
 [Link](url) and ![Image](8.jpeg)
-[Link](url) and ![Image](9.jpeg)
+
 
 ```
 
